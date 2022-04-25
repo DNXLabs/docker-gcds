@@ -1,0 +1,6 @@
+config.py
+config.sh
+*.xml
+.java
+config/*
+*.pyc
